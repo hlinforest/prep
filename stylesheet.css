@@ -1,0 +1,13 @@
+/*http://codepen.io/anon/pen/KpMpyq*/
+
+section{
+font-family: verdana;
+}
+img{
+border-radius:10px;
+box-shadow:5px 5px 10px #d3d3d3;
+}
+li:hover{
+background-color: #6B8E23;
+color: white;
+}
